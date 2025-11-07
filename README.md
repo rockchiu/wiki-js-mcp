@@ -34,6 +34,7 @@ Complete the initial setup in the web interface
 # Update .env with Wiki.js API credentials:
 # - Get API key from Wiki.js admin panel  
 # - Set WIKIJS_TOKEN in .env file
+# - Set Locale in .env file
 
 # Test the connection
 ./test-server.sh
